@@ -5,10 +5,6 @@
  */
 package DTO;
 
-/**
- *
- * @author crrtt
- */
 public class User {
     int userID, roleID, status;
     String fullName, password, address, birthday, phone, mail;

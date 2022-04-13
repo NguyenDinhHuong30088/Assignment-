@@ -5,10 +5,6 @@
  */
 package DTO;
 
-/**
- *
- * @author crrtt
- */
 public class Product {
     int productID, quantity, categoryID,status;
     String productName, image, importDate, usingDate,des;

@@ -5,10 +5,6 @@
  */
 package DTO;
 
-/**
- *
- * @author crrtt
- */
 public class Role {
     int roleID;
     String roleName;

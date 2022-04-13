@@ -5,10 +5,6 @@
  */
 package DTO;
 
-/**
- *
- * @author crrtt
- */
 public class Category {
     int categoryID;
     String categoryName;

@@ -5,10 +5,6 @@
  */
 package DTO;
 
-/**
- *
- * @author crrtt
- */
 public class Order {
     int orderID, userID, status;
     String orderDate;

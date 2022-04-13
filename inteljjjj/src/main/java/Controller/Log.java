@@ -16,10 +16,7 @@ import java.io.PrintWriter;
 import java.io.Reader;
 import java.util.Scanner;
 
-/**
- *
- * @author crrtt
- */
+
 public class Log {
 
     public static void writeFile(String data) {

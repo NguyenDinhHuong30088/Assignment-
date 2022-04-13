@@ -12,10 +12,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- *
- * @author crrtt
- */
 public class RoleDAO {
     
         public static ArrayList<Role> getAllRole() {

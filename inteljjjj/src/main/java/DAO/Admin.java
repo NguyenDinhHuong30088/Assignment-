@@ -13,10 +13,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- *
- * @author Admin
- */
 public class Admin {
       public static ArrayList<Product> getAllProductAdmin() {
         ArrayList<Product> list = new ArrayList<>();

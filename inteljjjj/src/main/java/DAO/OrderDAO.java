@@ -12,10 +12,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- *
- * @author crrtt
- */
+
 public class OrderDAO {
 
     public static ArrayList<Order> getAllOrder() {

@@ -5,10 +5,6 @@
  */
 package DTO;
 
-/**
- *
- * @author crrtt
- */
 public class OrderDetail {
     int detailID, quantity, orderID, productID;
     float price;
